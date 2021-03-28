@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:jon-grey/news-app-azure-function-app-python-api.git
+[submodule "app"]
+	path = app
+	url = git@github.com:jon-grey/news-app-azure-static-webapp-angular.git
